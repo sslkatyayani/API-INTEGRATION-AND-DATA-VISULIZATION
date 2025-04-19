@@ -58,3 +58,6 @@ A bar chart visualizing:
 The top 5 countries with the highest number of confirmed COVID-19 cases.
 This chart is automatically saved as an image file.
 
+![Image](https://github.com/user-attachments/assets/f1d9357a-71e8-4577-803d-222acf0fe0c2)
+
+![Image](https://github.com/user-attachments/assets/860e2ea7-2f06-47c8-af95-1b1c8ef94e3c)
